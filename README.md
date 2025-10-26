@@ -38,10 +38,6 @@
 - Tracks expenses with dynamic filtering and visual insights  
 - Designed with **responsive dashboard UI**  
 
-#### 🍽️ [Blessings Hotel Website](https://diksha78-bot.github.io/contact)
-- Static single-page restaurant website built using **HTML, CSS, JS**
-- Based on a real menu with an elegant **vintage red-brown theme**
-
 ---
 
 ### 🏅 Certifications
