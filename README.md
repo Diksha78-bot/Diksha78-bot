@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Diksha Dabhole</h1>
 <h3 align="center">A passionate Software Engineer in the making 🚀 | 3rd-Year B.Tech Computer Engineering Student</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Diksha78-bot&label=Profile%20views&color=0e75b6&style=flat" alt="Diksha78-bot" /> 
+</p>
+
 ---
 
 ### 🌟 About Me  
@@ -14,9 +18,14 @@
 
 ---
 
-### 💼 My Portfolio  
-Check out my developer portfolio on **Codolio**:  
-👉 [codolio.com/profile/Diksha78](https://codolio.com/profile/Diksha78)
+### 💻 Tech Stack Summary  
+
+**Frontend:** HTML, CSS, JavaScript, React, Bootstrap  
+**Backend:** Node.js, Express.js, Spring Boot, Hibernate  
+**Databases:** MySQL, MongoDB  
+**Programming Languages:** C, C++, Java  
+**Tools & Platforms:** Git, GitHub, Postman, VS Code, Figma, Linux  
+**Other Interests:** DevOps, Cloud (Google Cloud Platform)
 
 ---
 
@@ -27,9 +36,22 @@ Check out my developer portfolio on **Codolio**:
 
 ---
 
-### 🏅 My Holopin Badge Board
+### 🎯 Currently Learning & Working On  
+- Building REST APIs using **Spring Boot**  
+- Exploring **Docker & DevOps** concepts  
+- Improving **DSA** consistency (LeetCode & GFG)  
+- Contributing to **Open Source Projects**
 
-[![An image of @diksha78bot's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/diksha78bot)](https://holopin.io/@diksha78bot)
+---
+
+### 🏅 My Holopin Badge Board  
+<p align="center">
+  <a href="https://holopin.io/@diksha78bot">
+    <img src="https://holopin.me/diksha78bot" alt="@diksha78bot's Holopin badges" />
+  </a>
+</p>
+
+---
 
 ### 🚀 Projects  
 
@@ -47,6 +69,18 @@ Check out my developer portfolio on **Codolio**:
 - Developed using **React**, **Node.js**, and **MongoDB**
 - Tracks expenses with dynamic filtering and visual insights  
 - Designed with **responsive dashboard UI**  
+
+---
+
+### 📌 Featured Projects  
+
+<a href="https://github.com/Diksha78-bot/RentOrbit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diksha78-bot&repo=RentOrbit&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Diksha78-bot/Student-Expense-Tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diksha78-bot&repo=Student-Expense-Tracker&theme=tokyonight" />
+</a>
 
 ---
 
