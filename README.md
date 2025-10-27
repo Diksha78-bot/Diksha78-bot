@@ -14,12 +14,17 @@
 
 ---
 
+### 💼 My Portfolio  
+Check out my developer portfolio on **Codolio**:  
+👉 [codolio.com/profile/Diksha78](https://codolio.com/profile/Diksha78)
+
+---
+
 ### 🛠️ Languages and Tools  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,typescript,react,nodejs,express,spring,mongodb,mysql,git,github,postman,linux,vscode,figma" />
 </p>
 
----
 ---
 
 ### 🏅 My Holopin Badge Board
@@ -54,7 +59,7 @@
 
 ### 🧩 Achievements
 - 🌸 Contributor at **Hacktoberfest 2025**, **GSSOC 2025**, and **SWOC 2025**
-- 🧠 Regular participant on **LeetCode**, **GeeksforGeeks**, and **HackerRank**
+- 🧠 Regular participant on **LeetCode**, **GeeksforGeeks**
 - 🏗️ Built multiple academic & open-source projects with scalable design
 
 ---
@@ -76,8 +81,8 @@
 <a href="https://github.com/Diksha78-bot" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="mailto:dikshadabhole786@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://leetcode.com/u/dikshadabhole78/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/profile/dikshadabhole786/" target="_blank"><img src="https://img.shields.io/badge/HackerRank-green?logo=hackerrank&logoColor=white" /></a>
 <a href="https://www.geeksforgeeks.org/user/dikshada5bpj/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?logo=geeksforgeeks&logoColor=white" /></a>
+<a href="https://codolio.com/profile/Diksha78" target="_blank"><img src="https://img.shields.io/badge/Codolio-portfolio-blue?logo=internet-explorer&logoColor=white" /></a>
 </p>
 
 ---
