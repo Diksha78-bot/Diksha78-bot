@@ -20,6 +20,11 @@
 </p>
 
 ---
+---
+
+### 🏅 My Holopin Badge Board
+
+[![An image of @diksha78bot's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/diksha78bot)](https://holopin.io/@diksha78bot)
 
 ### 🚀 Projects  
 
