@@ -65,24 +65,13 @@
 - Features **secure authentication**, **booking system**, and **responsive UI**
 - Built with clean, modular architecture for scalability
 
-#### 💰 Student Expense Tracker  
+#### 💰 [Student Expense Tracker]()
 - Developed using **React**, **Node.js**, and **MongoDB**
 - Tracks expenses with dynamic filtering and visual insights  
 - Designed with **responsive dashboard UI**  
 
 ---
 
-### 📌 Featured Projects  
-
-<a href="https://github.com/Diksha78-bot/RentOrbit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diksha78-bot&repo=RentOrbit&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Diksha78-bot/Student-Expense-Tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diksha78-bot&repo=Student-Expense-Tracker&theme=tokyonight" />
-</a>
-
----
 
 ### 🏅 Certifications
 - 🗣️ **Goethe-Zertifikat A1 (German Language)** – Goethe-Institut (2024)  
