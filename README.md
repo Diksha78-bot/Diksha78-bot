@@ -14,7 +14,7 @@
 - 💬 Ask me about **C, C++, Java, HTML, CSS, JS, React, Node.js, MySQL, MongoDB**  
 - 📚 Certified in **German (A1)** and **Google Cloud Gen AI Exchange Program**  
 - ⚡ Fun fact: I enjoy building impactful projects and contributing to open source!  
-- 📫 Reach me at: **dikshadabhole786@gmail.com**
+- 📫 Reach me at: **dikshadabhole78@gmail.com**
 
 ---
 
