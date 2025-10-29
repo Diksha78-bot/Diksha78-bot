@@ -92,10 +92,9 @@
 
 ![Diksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diksha78-bot&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diksha78-bot&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Diksha78-bot&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Diksha78-bot&theme=tokyonight)
 
 </div>
-
 ---
 
 ### 🌐 Connect with Me  
