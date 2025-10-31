@@ -92,7 +92,8 @@
 
 ![Diksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diksha78-bot&show_icons=true&theme=tokyonight&cache_seconds=86400)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diksha78-bot&layout=compact&theme=tokyonight&cache_seconds=86400)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Diksha78-bot)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=Diksha78-bot&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&fire=FF9A00&ring=70A5FD&currStreakNum=F6E05E&sideLabels=70A5FD&currStreakLabel=F6E05E&stroke=70A5FD)
+
 </div>
 
 ---
