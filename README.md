@@ -95,7 +95,6 @@
 
 <!-- Force refresh and fallback protection -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=Diksha78-bot&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&fire=FF9A00&ring=70A5FD&currStreakNum=F6E05E&sideLabels=70A5FD&currStreakLabel=F6E05E&stroke=70A5FD&v=2)
-![GitHub Streak (Backup)](https://github-readme-streak-stats.herokuapp.com?user=Diksha78-bot&theme=tokyonight&hide_border=false)
 
 </div>
 
